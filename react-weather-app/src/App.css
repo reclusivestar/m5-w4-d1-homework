@@ -1,0 +1,16 @@
+.weather-icon {
+  width: 100px;
+}
+
+.container .card {
+  width: 40em;
+}
+
+.footer {
+  background: #fff;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  right: 0;
+}
